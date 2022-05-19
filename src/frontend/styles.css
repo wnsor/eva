@@ -2,16 +2,16 @@
 
 
 h1 {
-    color: red;
+    color: orchid;
   }
 
 
 
 p {
-    color: green;
+    color: blueviolet;
   }
   
 
-  p, li {
+li {
     color: green;
 }
